@@ -1,0 +1,6 @@
+C:\Users\Luis e Familia\OneDrive\Documentos\Faculdade\6º Semestre\Aulas\Sistemas Operacionais Abertos\Trabalho\Paginacao vetor\Paginacao vetor\bin\Debug\Paginacao vetor.exe.config
+C:\Users\Luis e Familia\OneDrive\Documentos\Faculdade\6º Semestre\Aulas\Sistemas Operacionais Abertos\Trabalho\Paginacao vetor\Paginacao vetor\bin\Debug\Paginacao vetor.exe
+C:\Users\Luis e Familia\OneDrive\Documentos\Faculdade\6º Semestre\Aulas\Sistemas Operacionais Abertos\Trabalho\Paginacao vetor\Paginacao vetor\bin\Debug\Paginacao vetor.pdb
+C:\Users\Luis e Familia\OneDrive\Documentos\Faculdade\6º Semestre\Aulas\Sistemas Operacionais Abertos\Trabalho\Paginacao vetor\Paginacao vetor\obj\Debug\Paginacao vetor.csprojResolveAssemblyReference.cache
+C:\Users\Luis e Familia\OneDrive\Documentos\Faculdade\6º Semestre\Aulas\Sistemas Operacionais Abertos\Trabalho\Paginacao vetor\Paginacao vetor\obj\Debug\Paginacao vetor.exe
+C:\Users\Luis e Familia\OneDrive\Documentos\Faculdade\6º Semestre\Aulas\Sistemas Operacionais Abertos\Trabalho\Paginacao vetor\Paginacao vetor\obj\Debug\Paginacao vetor.pdb
